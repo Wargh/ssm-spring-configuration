@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=net.wargh.env.SsmEnvironmentPostProcessor
+org.springframework.context.ApplicationListener=net.wargh.env.SsmEnvironmentPostProcessor
